@@ -4,7 +4,7 @@
  * @package YiXin
  * @author Erhecy
  * @version 1.5
- * @link https://www.mmcee.cn/
+ * @link https://www.ohman.top/
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
